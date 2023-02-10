@@ -1,2 +1,2 @@
-# The first readme
+# Git and GitHub account setup
 **Important**
